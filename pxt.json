@@ -6,7 +6,6 @@
     },
     "files": [
         "README.md",
-        "main.ts",
         "blah.cpp"
     ],
     "testFiles": [
